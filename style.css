@@ -1,0 +1,27 @@
+body {
+    background: #f5efe0;
+    box-sizing: border-box;
+    color: #000;
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+    font-size: 1.0rem;
+    letter-spacing: -0.015em;
+    text-align: left;
+    justify-content: center;
+    border: 100px;
+    margin: 100px;
+    
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h1,h2,h3, footer{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    
+}
+
